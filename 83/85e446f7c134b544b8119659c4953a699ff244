@@ -1,0 +1,14 @@
+index.html
+  h_1f5f0d15de3e60 5-10,14-36,39-51,53,55,57-64,72,74-75,78-86,88-102,104,123,151,156,158,160,166,169,171-174,176-177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "8385e446f7c134b544b8119659c4953a699ff244",
+  "prompts": {},
+  "humans": {
+    "h_1f5f0d15de3e60": {
+      "author": "crisalb <cris@crisalb.com>"
+    }
+  }
+}
